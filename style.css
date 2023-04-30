@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+a{
+    padding: 5px;
+    margin-left: 50px;
+}
+h1{
+    text-align: center;
+
+}
+img{
+    padding: 20px;
+    border-left: 15px dotted;
+} 
